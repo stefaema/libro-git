@@ -1,0 +1,5 @@
+cap 1: Intro a Git
+cap 2: Workflow básico
+cap 3: Gestión de ramas
+cap 4: Repos remotos
+Capítulo 5: Conceptos avanzados
